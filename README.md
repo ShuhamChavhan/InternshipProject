@@ -1,2 +1,0 @@
-# InternshipProject
-Small Internship Projects
